@@ -2,6 +2,17 @@
 
 Make a script using Python!
 
+## Installing
+
+Currently, you can do:
+```commandline
+git clone https://github.com/NCPlayz/Scripter
+cd Scripter
+python3 -m pip install -U .
+```
+
+## Example
+
 ```python
 from scripter import Script
 
@@ -19,5 +30,7 @@ if __name__ == '__main__':
     # Result in ./tests
 ```
 
-## Dependencies
-###### *They should be in `requirements.txt`*
+## Requirements
+- `Python` language - version `3.0.0+`
+- ``python-docx`` library - version `0.8.7`
+
