@@ -4,7 +4,12 @@ Make a script using Python!
 
 ## Installing
 
-Currently, you can do:
+The library is now on PyPI, which means you can do this:
+```
+python -m pip install -U playscripter
+```
+
+Alternatively, you can do this:
 ```
 git clone https://github.com/NCPlayz/Scripter
 cd Scripter
