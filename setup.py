@@ -17,6 +17,7 @@ setup(
     author_email='chowdhurynadir0@outlook.com',
     description='A Python alternative to making playscripts.',
     long_description=readme,
+    long_description_content_type='text/markdown',
     python_requires='>=3',
     install_requires=requirements,
     classifiers=[
